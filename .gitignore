@@ -1,0 +1,9 @@
+# Don't track content of these folders
+var/
+app/etc/
+media/
+
+.htaccess
+
+app/etc/local.xml
+
